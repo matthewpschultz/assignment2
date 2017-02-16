@@ -1,0 +1,23 @@
+/* basic CSS sheet for the Sharpsburg Inspection FOrm */
+.bold {
+  font-size:25px;
+}
+.sapphireblue {
+  color:blue;
+}
+.fontfancy {
+  font-style:Italic;
+}
+body {
+  background-color: lightblue;
+}
+label {
+  float:left;
+  width:140px
+}
+fieldset {
+  width 260px;
+  display: inline block;
+  overflow:hidden;
+  border: 0;
+}
